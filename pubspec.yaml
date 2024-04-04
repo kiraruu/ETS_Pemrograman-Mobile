@@ -1,0 +1,40 @@
+name: flutter_application_2
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo akt - Copy.jpg 
+    - assets/logo kwu.jpg 
+    - assets/logo mnj.jpg 
+    - assets/logo akt.jpg 
+    - assets/logo ep.jpg
+    - assets/mnj.png 
+    - assets/akt.png 
+    - assets/akt2.png 
+    - assets/ep.png 
+    - assets/kwu.png
+    - assets/dosen_akt - Copy.png 
+    - assets/dosen_akt.png 
+    - assets/dosen_ep.jpg 
+    - assets/dosen_mnj.png 
+    - assets/dosen_kwu.jpg
+    - assets/icon.jpeg
+    - assets/ark.jpg
+    - assets/foto_jo.jpeg
